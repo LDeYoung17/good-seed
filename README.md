@@ -26,3 +26,5 @@ This project needs to be run on the GPU of your choice and requires tensorflow i
 
 <h2>Sample Graph</h2>
 
+![image](https://github.com/LDeYoung17/good-seed/assets/70500225/0421c3cc-ea34-4b0a-aba7-4221ac15eadb)
+
