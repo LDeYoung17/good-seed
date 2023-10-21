@@ -6,19 +6,19 @@ This project uses Computer Vision to determine if a grocery store can figure out
 
 <h2>Table of Contents</h2>
 
-1. Exploratory Data Analysis(notebooks > EDA_ML.ipynb)
-      a) Library importation
-      b) Import the data
-      c) EDA - Age Distributions of the Photos
-      d) EDA - Examining Sample Photos
-
-2. Machine Learning Models (notebooks > EDA_ML.ipynb)
-      a) Functions to load and split the data
-      b) Function to create the model
-      c) Function to train the model
-      d) Script to run all the functions
-      e) GPU Output and Final MAE
-      f) Conclusions
+      1. Exploratory Data Analysis(notebooks > EDA_ML.ipynb)
+            a) Library importation
+            b) Import the data
+            c) EDA - Age Distributions of the Photos
+            d) EDA - Examining Sample Photos
+      
+      2. Machine Learning Models (notebooks > EDA_ML.ipynb)
+            a) Functions to load and split the data
+            b) Function to create the model
+            c) Function to train the model
+            d) Script to run all the functions
+            e) GPU Output and Final MAE
+            f) Conclusions
 
 <h2>Local Access</h2>
 
